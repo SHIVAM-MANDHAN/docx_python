@@ -9,18 +9,3 @@ Check it yourself :)
 
 <img src="https://i.imgur.com/rNaVfYj.png?raw=true" width="32%"> <img src="https://i.imgur.com/QwptSZl.png?raw=true" width="32%"> <img src="https://i.imgur.com/4pTjJPW.png?raw=true" width="32%">
 <img src="https://i.imgur.com/uQm7yxi.png?raw=true" width="32%"><img src="https://i.imgur.com/zamK5JM.png?raw=true" width="32%"><img src="https://i.imgur.com/ZXm3ZZ9.png?raw=true" width="32%">
-
-
-
-
-
-
-```
-git clone https://github.com/aniketroy420/Docx-with-pptx.git
-```
-
-
-
-```
-
-```
